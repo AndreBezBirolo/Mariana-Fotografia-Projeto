@@ -81,6 +81,10 @@ img {
     font-size: 0.875em;
     margin-top: 20px;
 }
+.sub-sobre {
+    font-size: 1.8em;
+    font-weight: bold;
+}
 .btn {
     display: block;
     margin: 20px auto;
