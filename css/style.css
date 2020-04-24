@@ -97,6 +97,10 @@ img {
     border: 2px solid black;
     padding: 10px 20px;
 }
+.btn:hover {
+    color: #FFFFC0;
+    border: currentColor;
+}
 .sobre-resumo {
     background-color: #FFFFC0;
 }
