@@ -78,12 +78,8 @@ img {
 /* sobre */
 #sobre {
     text-align: center;
-    font-size: 0.875em;
-    margin-top: 20px;
-}
-.sub-sobre {
     font-size: 1.8em;
-    font-weight: bold;
+    margin-top: 20px;
 }
 .btn {
     display: block;
@@ -98,8 +94,8 @@ img {
     padding: 10px 20px;
 }
 .btn:hover {
-    color: #FFFFC0;
-    border: currentColor;
+    color: #252525;
+    border: 2px solid #252525;
 }
 .sobre-resumo {
     background-color: #FFFFC0;
