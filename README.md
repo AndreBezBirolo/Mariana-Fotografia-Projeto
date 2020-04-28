@@ -5,3 +5,4 @@ Este website contém as seguintes caracteristas:
 CSS grid layout base.
 Header fixo.
 https://andrebezbirolo.github.io/Mariana-Fotografia-Projeto/
+* sem responsividade
